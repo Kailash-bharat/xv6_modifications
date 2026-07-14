@@ -1,4 +1,4 @@
-# xv6 Extensions – IITH Course Project
+# xv6 Extensions
 
 ## Features
 
